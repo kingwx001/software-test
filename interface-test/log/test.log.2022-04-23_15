@@ -1,0 +1,4 @@
+2022-04-23 15:59:48,872 ERROR [root] [TestLogin.py (test_login:40] - '登录成功' not found in {'status': 1, 'msg': '登录成功'}
+2022-04-23 15:59:48,919 ERROR [root] [TestLogin.py (test_login:40] - '手机号不符合规范' not found in {'status': 0, 'msg': '手机号不符合规范'}
+2022-04-23 15:59:48,960 ERROR [root] [TestLogin.py (test_login:40] - '用户不存在,请先注册!' not found in {'status': 0, 'msg': '用户不存在,请先注册!'}
+2022-04-23 15:59:49,003 ERROR [root] [TestLogin.py (test_login:40] - '短信验证码输入有误' not found in {'status': 0, 'msg': '短信验证码输入有误'}

@@ -1,0 +1,7 @@
+{
+    "testCase1":{"phone":"15607076696","code":"111111","expect":"登录成功"},
+    "testCase2":{"phone":"1560707669","code":"111111","expect":"手机号不符合规范"},
+    "testCase3":{"phone":"15607076690","code":"111111","expect":"用户不存在,请先注册!"},
+    "testCase4":{"phone":"15607076696","code":"","expect":"短信验证码输入有误"}
+  }
+  
