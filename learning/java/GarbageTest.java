@@ -1,3 +1,4 @@
+package learning.java;
 import java.io.IOException;
 
 public class GarbageTest {

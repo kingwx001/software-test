@@ -1,3 +1,5 @@
+package learning.java;
+
 
 import java.util.Scanner;
 public class P1002 {

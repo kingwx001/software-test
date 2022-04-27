@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch GarbageTest",
+            "request": "launch",
+            "mainClass": "learning.java.GarbageTest",
+            "projectName": "software-test_e32a4de4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MultiThread",
+            "request": "launch",
+            "mainClass": "learning.java.MultiThread",
+            "projectName": "software-test_e32a4de4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P1002",
+            "request": "launch",
+            "mainClass": "learning.java.P1002",
+            "projectName": "software-test_e32a4de4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P1003",
+            "request": "launch",
+            "mainClass": "learning.java.P1003",
+            "projectName": "software-test_e32a4de4"
+        },
+        {
+            "type": "java",
+            "name": "Launch P1014",
+            "request": "launch",
+            "mainClass": "learning.java.P1014",
+            "projectName": "software-test_e32a4de4"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "learning.java.Test",
+            "projectName": "software-test_e32a4de4"
+        }
+    ]
+}

@@ -1,3 +1,5 @@
+package learning.java;
+
 public class Test {
     /**
      * @param args add by leixiaoshuai 爱笑的架构师
