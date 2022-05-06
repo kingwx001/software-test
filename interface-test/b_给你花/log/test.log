@@ -1,0 +1,8 @@
+2022-05-06 13:49:24,258 ERROR [root] [TestLogin.py (test_login:50] - '登录成功' not found in {'status': 1, 'msg': '登录成功'}
+2022-05-06 13:49:24,298 ERROR [root] [TestLogin.py (test_login:50] - '手机号不符合规范' not found in {'status': 0, 'msg': '手机号不符合规范'}
+2022-05-06 13:49:24,349 ERROR [root] [TestLogin.py (test_login:50] - '用户不存在,请先注册!' not found in {'status': 0, 'msg': '用户不存在,请先注册!'}
+2022-05-06 13:49:24,381 ERROR [root] [TestLogin.py (test_login:50] - '短信验证码输入有误' not found in {'status': 0, 'msg': '短信验证码输入有误'}
+2022-05-06 14:20:37,182 ERROR [root] [TestLogin.py (test_login:50] - '登录成功' not found in {'status': 1, 'msg': '登录成功'}
+2022-05-06 14:20:37,230 ERROR [root] [TestLogin.py (test_login:50] - '手机号不符合规范' not found in {'status': 0, 'msg': '手机号不符合规范'}
+2022-05-06 14:20:37,280 ERROR [root] [TestLogin.py (test_login:50] - '用户不存在,请先注册!' not found in {'status': 0, 'msg': '用户不存在,请先注册!'}
+2022-05-06 14:20:37,322 ERROR [root] [TestLogin.py (test_login:50] - '短信验证码输入有误' not found in {'status': 0, 'msg': '短信验证码输入有误'}

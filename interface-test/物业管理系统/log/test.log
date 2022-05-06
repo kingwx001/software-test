@@ -1,0 +1,12 @@
+2022-05-06 14:28:32,684 ERROR [root] [TestLogin.py (test_login:27] - 'in <string>' requires string as left operand, not dict
+2022-05-06 14:30:59,904 ERROR [root] [TestLogin.py (test_login:28] - 'in <string>' requires string as left operand, not dict
+2022-05-06 14:31:16,442 ERROR [root] [TestLogin.py (test_login:29] - 'in <string>' requires string as left operand, not dict
+2022-05-06 14:32:33,720 ERROR [root] [TestLogin.py (test_login:30] - 'in <string>' requires string as left operand, not dict
+2022-05-06 14:33:05,769 ERROR [root] [TestLogin.py (test_login:30] - 'in <string>' requires string as left operand, not dict
+2022-05-06 14:33:08,496 ERROR [root] [TestLogin.py (test_login:30] - 'in <string>' requires string as left operand, not dict
+2022-05-06 14:34:38,395 ERROR [root] [TestLogin.py (test_login:30] - 'in <string>' requires string as left operand, not dict
+2022-05-06 14:34:46,107 ERROR [root] [TestLogin.py (test_login:30] - 'in <string>' requires string as left operand, not dict
+2022-05-06 14:35:16,449 ERROR [root] [TestLogin.py (test_login:30] - 'in <string>' requires string as left operand, not dict
+2022-05-06 14:35:41,845 ERROR [root] [TestLogin.py (test_login:30] - 'in <string>' requires string as left operand, not dict
+2022-05-06 14:36:01,863 ERROR [root] [TestLogin.py (test_login:30] - 'success' not found in {'code': '0', 'message': 'success', 'content': {'uid': 1, 'username': '13000000000', 'email': '123@xx.com', 'realname': '张学友', 'gender': '2', 'birthday': '1985-05-08', 'userroleid': '2', 'c_id': '1', 'delstate': '0', 'token': 'e10adc3949ba59abbe56e057f20f8824'}}
+2022-05-06 14:37:18,023 ERROR [root] [TestLogin.py (test_login:31] - the JSON object must be str, bytes or bytearray, not dict
